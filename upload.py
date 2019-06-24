@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-#from oslo_config import cfg
-#CONF = cfg.CONF
+# from oslo_config import cfg
+# CONF = cfg.CONF
 
 import os
 import pathlib
@@ -8,14 +8,16 @@ import shutil
 
 WORKING_DIR = os.getcwd()
 theme_name = 'nagisa'
-username = 'palagend' 
-gitserver = 'github.com' 
+username = 'palagend'
+gitserver = 'github.com'
 site_name = 'palagend.github.io'
+
 
 def init_public():
     public_dir_git = pathlib.Path(os.path.join(WORKING_DIR, 'public', '.git'))
     public_dir = public_dir_git.parent
-    clone = f"git clone git@{gitserver}:/{username}/{site_name}.git {str(public_dir)}" 
+    clone = (f"git clone https://{gitserver}/{username}"
+             f"/{site_name}.git {str(public_dir)}")
     if(not public_dir.exists()):
         if (os.system(clone) != 0):
             raise Exception('Clone failed')
@@ -42,9 +44,11 @@ def load_theme():
         return
     if(theme_dir.exists()):
         os.rmdir(theme_dir)
-    clone = f"git clone git@{gitserver}:/{username}/{theme_name}.git {str(theme_dir)}" 
+    clone = (f"git clone https://{gitserver}/{username}"
+             f"/{theme_name}.git {str(theme_dir)}")
     if (os.system(clone) != 0):
         raise Exception('Clone failed')
+
 
 if __name__ == '__main__':
     load_theme()
