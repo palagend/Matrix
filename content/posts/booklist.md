@@ -8,3 +8,12 @@ categories: [转载]
 [张小龙2018年微信公开课演讲之个人总结](http://jasonding.top/2018/01/16/personal/%E5%BC%A0%E5%B0%8F%E9%BE%992018%E5%B9%B4%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%BC%80%E8%AF%BE%E6%BC%94%E8%AE%B2%E4%B9%8B%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/)
 
 [Linux网络协议栈](http://www.cnblogs.com/sammyliu/p/5225623.html)
+
+[网络基础之网络协议篇](https://www.cnblogs.com/linhaifeng/articles/5937962.html)
+
+[从头搭建OpenStack](https://www.cnblogs.com/run4life/p/5217766.html)
+
+[Golang正则表达式](https://www.cnblogs.com/golove/p/3269099.html)
+
+[Open vSwitch](https://www.cnblogs.com/wanstack/p/7606416.html)
+

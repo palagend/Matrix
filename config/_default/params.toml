@@ -1,8 +1,8 @@
 since = 2019
-author = "Arthur Dayne"                           # Author's name
-avatar = "/images/me/avatar.jpeg"           # Author's avatar
-subtitle = "人生而孤独却不甘寂寞"         # Subtitle
-cdn_url = ""           # Base CDN URL
+author = "Arthur Dayne"
+avatar = "/images/me/avatar.jpeg"
+subtitle = "人生而孤独却不甘寂寞"
+cdn_url = "http://puh2yocjk.bkt.clouddn.com/" # 图片在七牛云上 <https://portal.qinniu.com>
 home_mode = "" # post or other
 
 google_verification = ""
