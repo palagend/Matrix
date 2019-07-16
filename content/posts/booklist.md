@@ -17,3 +17,5 @@ categories: [转载]
 
 [Open vSwitch](https://www.cnblogs.com/wanstack/p/7606416.html)
 
+[Linux OOM](https://www.cnblogs.com/jjmcao/p/9450383.html)
+
