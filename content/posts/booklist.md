@@ -19,3 +19,4 @@ categories: [转载]
 
 [Linux OOM](https://www.cnblogs.com/jjmcao/p/9450383.html)
 
+[OpenStack metadata](https://www.ibm.com/developerworks/cn/cloud/library/1509_liukg_openstackmeta/)

@@ -1,8 +1,9 @@
 since = 2019
 author = "Arthur Dayne"
-avatar = "/images/me/avatar.jpeg"
+avatar = "2019/08/23/mBuPzQ.jpg"
 subtitle = "人生而孤独却不甘寂寞"
-cdn_url = "http://puh2yocjk.bkt.clouddn.com/" # 图片在七牛云上 <https://portal.qinniu.com>
+# cdn_url = "http://puh2yocjk.bkt.clouddn.com/" # 图片在七牛云上 <https://portal.qinniu.com>
+cdn_url = "https://s2.ax1x.com/"
 home_mode = "" # post or other
 
 google_verification = ""
@@ -11,7 +12,7 @@ description = "Palagend blog site" # site description
 keywords = "AIR,palagend,blog" # site keywords
 
 beianCode = "11010502030143"
-beianIcon = "/images/beian.png"
+#beianIcon = "/images/beian.png"
 baiduAnalytics = ""
 
 license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
@@ -20,7 +21,7 @@ license= '本文采用<a rel="license" href="http://creativecommons.org/licenses
     Twitter = "palagend"
     Email   = "palagend"
     Instagram = "palagend"
-    Wechat = "/images/me/wechat.jpeg"  # Wechat QRcode image
+    Wechat = "2019/08/23/mBulQJ.jpg"  # Wechat QRcode image
     Facebook = "palagend"
     Telegram = "palagend"
     Dribbble = "palagend"
