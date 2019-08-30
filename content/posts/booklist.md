@@ -20,3 +20,5 @@ categories: [转载]
 [Linux OOM](https://www.cnblogs.com/jjmcao/p/9450383.html)
 
 [OpenStack metadata](https://www.ibm.com/developerworks/cn/cloud/library/1509_liukg_openstackmeta/)
+
+[进程釜底抽薪之后...](https://blog.csdn.net/lqt641/article/details/60899884)
