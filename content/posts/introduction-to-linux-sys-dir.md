@@ -1,12 +1,12 @@
 ---
 title: "Linux /sys目录下各个子目录说明"
-date: 2019-06-24
+date: 2019-09-19
 draft: false
 categories:
  - '技术'
 tags:
  -
-featured_image: /yama.jpg
+featured_image: 2019/09/19/nLapJU.md.jpg
 ---
 
 1. /sys/devices
