@@ -2,7 +2,8 @@
 title: Docker技术简介
 date: 2018-12-18T20:09:44+08:00
 draft: false
-categories: [技术]
+categories:
+- general
 ---
 
 Docker技术贯穿CI/CD的整个过程，既是基础的技术，又是重要的技术。这里只是想普及一下Docker的技术，

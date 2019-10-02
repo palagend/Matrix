@@ -1,8 +1,9 @@
 ---
 title: (Hu)go Template Primer
 tags: ["go", "golang", "templates", "themes", "development"]
-categories: ["技术"]
 date: 2014-07-28
+categories:
+- general
 ---
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

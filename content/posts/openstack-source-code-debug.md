@@ -3,11 +3,16 @@ title: "Openstack Source Code Debug"
 date: 2019-09-19T17:37:08+08:00
 draft: false
 categories:
- - '技术'
+- general
 tags:
- - 
-featured_image: 2019/09/19/nLaBOs.md.jpg
+- untagged
 ---
+
+{{< image
+src="https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture"
+alt="Bing Everyday"
+style="border-radius: 8px;" >}}
+
 
 由于openstack版本迭代的太快，很多上一个版本还能用的东西，下个版本又不能用了，我开始接触的时候是M版，等我上手之后，P版已经成熟，Q版也可以使用了。因为我需要对keystone的架构重写，所以我首先要解决的问题就是调试源代码，虽然通过各种书籍理论知道了keystone的架构模型，但实际自己去动源代码，也是很难的。
 
@@ -190,7 +195,7 @@ export OS_IMAGE_API_VERSION=2
 
 ![img3](http://s2.ax1x.com/2019/09/19/nLDmxU.png)
 
-发现接收到了请求，说明如我们猜测一样。那么我们再试试在这个脚本里打上断点，我采用pdb调试，不会的可以参考这篇文章，也可以成功进入。（最开始写的时候用的pdb调试，后来发现不好用个，配置了远程调试，这是后面补的https://blog.csdn.net/u012198947/article/details/88988321，参考这个使用pycharm远程调试，方便好用）
+发现接收到了请求，说明如我们猜测一样。那么我们再试试在这个脚本里打上断点，我采用pdb调试，不会的可以参考这篇文章，也可以成功进入。（最开始写的时候用的pdb调试，后来发现不好用个，配置了远程调试，这是后面补的 https://blog.csdn.net/u012198947/article/details/88988321  ，参考这个使用pycharm远程调试，方便好用）
 
 以一张图来说明：
 

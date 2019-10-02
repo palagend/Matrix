@@ -4,8 +4,10 @@ date: {{ .Date }}
 draft: false
 toc: false
 images:
+categories:
+- general
 tags:
-  - untagged
+- untagged
 ---
 
 {{< image

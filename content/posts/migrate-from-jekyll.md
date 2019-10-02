@@ -1,7 +1,8 @@
 ---
 title: Migrate to Hugo from Jekyll
 date: 2014-03-10
-categories: ["技术"]
+categories:
+- general
 ---
 
 ## Move static content to `static`

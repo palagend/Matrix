@@ -2,7 +2,8 @@
 title: "题都城南庄"
 date: 2018-12-06T20:13:41+08:00
 draft: false
-categories: [随笔]
+categories:
+- general
 ---
 
 {{< image src="https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture" alt="Bing Everyday" style="border-radius: 8px;" >}}

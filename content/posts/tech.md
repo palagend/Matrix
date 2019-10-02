@@ -2,7 +2,8 @@
 title: 技术白话即《数据结构与算法》读书心得与笔记
 date: 2018-12-18T20:09:44+08:00
 draft: false
-categories: [技术]
+categories:
+- general
 ---
 
 ## 技和术的区别

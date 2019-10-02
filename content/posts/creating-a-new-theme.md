@@ -2,7 +2,8 @@
 title: Creating a New Theme
 author: "Michael Henderson"
 tags: ["Theme", "Hugo"]
-categories: ["技术"]
+categories:
+- general
 date: 2014-09-28
 ---
 

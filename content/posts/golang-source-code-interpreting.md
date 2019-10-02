@@ -3,6 +3,7 @@ title: Go语言源码分析
 date: 2018-12-18T20:09:44+08:00
 draft: false
 categories:
+- general
 - 技术
 ---
 
