@@ -22,3 +22,12 @@ categories: [转载]
 [OpenStack metadata](https://www.ibm.com/developerworks/cn/cloud/library/1509_liukg_openstackmeta/)
 
 [进程釜底抽薪之后...](https://blog.csdn.net/lqt641/article/details/60899884)
+
+[*nix IPC](https://www.cnblogs.com/lnlvinso/p/10872512.html)
+
+[openstack虚拟机迁移](https://www.cnblogs.com/goldsunshine/p/9588017.html)
+
+[CGroup](https://www.ibm.com/developerworks/cn/linux/1506_cgroup/index.html)
+
+[存储基本概念](https://blog.csdn.net/liukuan73/article/details/45506441)
+

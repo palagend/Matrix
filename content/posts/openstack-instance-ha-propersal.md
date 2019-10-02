@@ -10,6 +10,8 @@ tags:
 featured_image:
 ---
 
+{{< image src="https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture" alt="Bing Everyday" style="border-radius: 8px;" >}}
+
 
 > This post is a copy from [russellbryant](https://blog.russellbryant.net/2014/10/15/openstack-instance-ha-proposal/)
 
