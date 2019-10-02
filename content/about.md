@@ -1,12 +1,14 @@
 +++
 title = "About"
 date = "2014-04-09"
-aliases = ["about-us","about-hugo2","contact"]
+aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = "Hugo Authors"
 +++
 
-{{< image src="https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture" alt="Bing Everyday" style="border-radius: 8px;" >}}
+{{< image src="https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture"
+alt="Bing Everyday"
+style="border-radius: 8px;" >}}
 
 Hugo is the **world’s fastest2 framework for building websites**. It is written in Go.
 
