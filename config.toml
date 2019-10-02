@@ -1,5 +1,5 @@
 baseURL = "https://palagend.github.io/"
-title   = "Palagend Site"
+title   = "困惑的人生"
 
 DefaultContentLanguage = "en"
 
@@ -57,6 +57,7 @@ disableHugoGeneratorInject = false
   description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
+  avatar_email = "palagend@sina.com"
 
   homeSubtitle = "PALAGEND"
 
@@ -96,7 +97,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/palagend"
+    url  = "https://www.linkedin.com/in/palagend"
 
 [languages]
   [languages.en]

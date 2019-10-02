@@ -1,10 +1,14 @@
 +++
-title = "About Hugo"
+title = "About"
 date = "2014-04-09"
-menu = "main"
+aliases = ["about-us","about-hugo2","contact"]
+[ author ]
+  name = "Hugo Authors"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+{{< image src="https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture" alt="Bing Everyday" style="border-radius: 8px;" >}}
+
+Hugo is the **world’s fastest2 framework for building websites**. It is written in Go.
 
 It makes use of a variety of open source projects including:
 
@@ -15,4 +19,3 @@ It makes use of a variety of open source projects including:
 * https://github.com/spf13/viper
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
